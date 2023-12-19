@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://Harsh:ra4EvQA166nV5dkv@cluster0.i5w09cj.mongodb.net/Harshu?retryWrites=true&w=majority
